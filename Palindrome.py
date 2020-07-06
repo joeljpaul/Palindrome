@@ -1,6 +1,8 @@
-first_str = 'MALAYALAM'
-reverse_str = reversed(first_str)
-if list(first_str) = list(reverse_str):
-   print("This is a Palentrome")
+def palindrome(str):
+   # Write code here and return True if it is a palindrome
+   return False
+
+if palindrome("malayalam"):
+   print("It is a palindrome")
 else:
-   print("This is not a palentrome")
+   print("It is not a palindrome")
